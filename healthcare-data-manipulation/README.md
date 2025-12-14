@@ -7,4 +7,4 @@
 - **Python Version:** 3.14.0
 
 ## Purpose
-This program extracts synthetic healthcare data from a database stored on SQL Server and manipulates it in various ways.
+This program extracts synthetic healthcare data from a database stored on SQL Server and Snowflake. It then manipulates the data in various ways.
