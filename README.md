@@ -1,7 +1,7 @@
 # Python Programming Portfolio
 
-Welcome to my Python programming portfolio! This repository showcases Python projects that demonstrate my skills in data extraction (from SQL Server and Snowflake), data manipulation, data merging, functions, and statistical analysis. I use the following libraries: pandas, NumPy, Matplotlib, scikit-learn, and SQLAlchemy.
+Welcome to my Python programming portfolio! This portfolio demonstrates end-to-end data engineering and analytics skills in Python, including extracting data from relational and cloud data warehouses, cleaning and transforming real-world datasets, integrating multiple data sources, and applying statistical modeling and visualization to answer applied policy and operational questions in healthcare and education.
 
 ## Featured Projects
-- **Healthcare Data Manipulation** - Data extraction (SQL Server and Snowflake), joins, variable creation, aggregation
-- **California High School Analysis** - Linear regression
+- **Healthcare Data Manipulation** - Extracts synthetic healthcare claims and diagnosis data from SQL Server and Snowflake, joins and cleans the datasets, and performs common analytic transformations such as summarization, filtering, sorting, and feature creation using pandas and NumPy.
+- **California High School Analysis** - Integrates California School Dashboard datasets and uses weighted linear regression to analyze the relationship between socioeconomic disadvantage and academic performance in math and ELA among high schools, producing predictions, residuals, visualizations, and an output file for further analysis.
