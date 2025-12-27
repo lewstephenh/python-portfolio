@@ -7,4 +7,4 @@
 - **Python Version:** 3.14.0
 
 ## Description
-End‑to‑end Python workflow for extracting, transforming, and analyzing synthetic medical claims data from SQL Server and Snowflake. Demonstrates proficiency in database connectivity, secure credential handling, data cleaning and joining, feature engineering, pandas-based summarization, vectorized transformations, and Pythonic patterns such as f‑strings, helper functions, and loop-based automation.
+Developed Python workflow that extracts synthetic healthcare data from SQL Server and Snowflake, validates and transforms data using pandas, performs exploratory analysis, and exports processed dataset for downstream use. Demonstrates proficiency in Python programming, SQL querying, database connectivity (SQLAlchemy, pyodbc), environment management, data cleaning and validation, pandas-based transformation, exploratory data analysis (matplotlib/seaborn), joining and enriching datasets, workflow organization, and exporting structured outputs.
